@@ -50,9 +50,8 @@ en: &DEFAULT_EN
       [Ladies&nbsp;Circle](https://ladiescircle.co.uk/), along with
       [41&nbsp;Club](https://www.41club.org/) and
       [Tangent](http://www.tangentclubs.org/) for those over 45. Our regular
-      [social&nbsp;events](#services) are for our members, but our
-      [community&nbsp;events](#services) are for
-      everyone!
+      [social&nbsp;events](#services) are for our members and prospective
+      members, but our [community&nbsp;events](#services) are for everyone!
 
   timeline:
     title: "FAQ"
@@ -64,11 +63,11 @@ en: &DEFAULT_EN
       - title: 
         year: "When and where do you meet?"
         desc: >
-          Nearly always on the first and third Wednesday of each month. The
-          venue isn't fixed, however. It could be in a local pub or restaurant,
-          at a nearby sports facility, or at an activity in London or closer to
-          home.          
-        image: assets/img/timeline/1.jpg
+          Nearly always on the first and third Wednesday evenings of the month.
+          The venue isn't fixed, however. It could be in a local pub or
+          restaurant, at a nearby sports facility, or at an activity venue in
+          London (or closer to home).
+        image: assets/img/timeline/calendar.jpg
         alt:
       - title: 
         year: "Of all the things you do, which is the most important?"
@@ -77,16 +76,23 @@ en: &DEFAULT_EN
           smiles at the carnival or Santa sleigh visit. Or maybe it's making
           new friendships that will last for years. You'd better ask a few of
           us individually and hear what we each say!
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/scale.jpg
         alt:
       - title: 
-        year: "Are you a cult?"
+        year: "Can I come along to find out more?"
         desc: >
-          Not as far as we're aware! No secret meetings, initiation rituals, no
-          funny handshakes. We're just a group who want to get out and meet
-          people, do a bit for the community, but mostly have fun along the
-          way.
-        image: assets/img/timeline/3.jpg
+          Yes! Get in touch using the form below and come along to one of our
+          social events as a guest. It's a great way to meet a few of the group
+          and learn more about us.
+        image: assets/img/timeline/cheers.jpg
+        alt:
+      - title:
+        year: "Any funny handshakes?"
+        desc: >
+          Not that we know about! No secret meetings or bizarre initiation
+          rituals either. We're just a group who want to get out and meet
+          people, do a bit for the community, and have fun along the way.
+        image: assets/img/timeline/secret.jpg
         alt: 
         # you can enforce the alignment
         #align: right
