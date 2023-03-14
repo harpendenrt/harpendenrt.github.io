@@ -78,14 +78,6 @@ en: &DEFAULT_EN
           us individually and hear what we each say!
         image: assets/img/timeline/scale.jpg
         alt:
-      - title: 
-        year: "Can I come along to find out more?"
-        desc: >
-          Yes! Get in touch using the form below and come along to one of our
-          social events as a guest. It's a great way to meet a few of the group
-          and learn more about us.
-        image: assets/img/timeline/cheers.jpg
-        alt:
       - title:
         year: "Any funny handshakes?"
         desc: >
@@ -94,13 +86,21 @@ en: &DEFAULT_EN
           people, do a bit for the community, and have fun along the way.
         image: assets/img/timeline/secret.jpg
         alt: 
+      - title:
+        year: "Can I come along to find out more?"
+        desc: >
+          Yes! Get in touch using the form below and come along to one of our
+          social events as a guest. It's a great way to meet a few of the group
+          and learn more about us.
+        image: assets/img/timeline/cheers.jpg
+        alt:
         # you can enforce the alignment
         #align: right
     end: "Still got a question? Look below..."
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
