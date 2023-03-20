@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: matthewhall79/agency-jekyll-theme@exp
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -21,9 +21,9 @@ title      : Harpenden Round Table
 email      :  #this is also the email contact forms will go to
 description: "A Harpenden based group for men aged 18-45 that want to do more!"
 author     : Harpenden Round Table
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\logo.png
+  height: 64 #height in px, defaults to 52px
 
 locale: "en-GB" # See available languages in _data/sitetext.yml
 

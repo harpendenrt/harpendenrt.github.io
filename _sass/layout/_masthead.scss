@@ -20,7 +20,10 @@ header.masthead {
         font-style: italic;
         line-height: 22px;
         margin-bottom: 25px;
-        @include serif-font;
+        // Begin modifications HRT website
+        font-weight: 700;
+        @include heading-font;
+        // End modifications for HRT website
       }
       .intro-heading {
         font-size: 50px;
@@ -41,7 +44,10 @@ header.masthead {
           font-style: italic;
           line-height: 40px;
           margin-bottom: 25px;
-          @include serif-font;
+          // Begin modifications HRT website
+          font-weight: 700;
+          @include heading-font;
+          // End modifications for HRT website
         }
         .intro-heading {
           font-size: 75px;
