@@ -29,8 +29,9 @@ en: &DEFAULT_EN
         icon: fas fa-glass-cheers #find more at https://fontawesome.com/icons
       - title: "Community events"
         desc: >
-          We organize two annual events for the community: the Harpenden
-          Carnival and the Santa sleigh rounds.
+          We organize two annual events for the community: the
+          [Harpenden&nbsp;Carnival](https://harpendencarnival.com) and the
+          [Santa&nbsp;sleigh](https://harpendensanta.uk) rounds.
         icon: fas fa-sleigh
       - title: "Fundraising"
         desc: >
