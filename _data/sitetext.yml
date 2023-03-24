@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Harpenden Round Table
-    text: Do more!
+    text: "#DO&#8239;MORE"
     button: Get in touch
     buttonlink: "#contact"
 
@@ -24,8 +24,8 @@ en: &DEFAULT_EN
       - title: "Nights out"
         desc: >
           We meet up on the first and third Wednesday evening of each month. We
-          might just go to the pub, have an informal game of softball on the
-          common, or try go karting or white-water rafting!
+          might go to the pub, have a game of softball on the common, or try go
+          karting or white-water rafting.
         icon: fas fa-glass-cheers #find more at https://fontawesome.com/icons
       - title: "Community events"
         desc: >
@@ -36,23 +36,23 @@ en: &DEFAULT_EN
       - title: "Fundraising"
         desc: >
           Our community events and our collection at the station for Children
-          in Need raise over £20K for charity each year!
+          in Need raise over £20K for charity each year.
         icon: fas fa-hand-holding-heart
 
   about:
     section: about
     title: "About Us"
     text: >
-      We are a group for men aged 18&ndash;45 in and around Harpenden who want
-      to do more
+      We are a group for individuals who identify as male aged 18&ndash;45 in
+      and around Harpenden who want to do more
     body: >
       We part of the national [Round&nbsp;Table](https://www.roundtable.co.uk)
       organization, which has a sister organization,
       [Ladies&nbsp;Circle](https://ladiescircle.co.uk/), along with
       [41&nbsp;Club](https://www.41club.org/) and
-      [Tangent](http://www.tangentclubs.org/) for those over 45. Our regular
-      [social&nbsp;events](#services) are for our members and prospective
-      members, but our [community&nbsp;events](#services) are for everyone!
+      [Tangent](http://www.tangentclubs.org/) for those over 45. We hold regular
+      [social&nbsp;events](#services) for our members and prospective
+      members, and [community&nbsp;events](#services) for everyone.
 
   timeline:
     title: "FAQ"
@@ -66,25 +66,24 @@ en: &DEFAULT_EN
         desc: >
           Nearly always on the first and third Wednesday evenings of the month.
           The venue isn't fixed, however. It could be in a local pub or
-          restaurant, at a nearby sports facility, or at an activity venue in
-          London (or closer to home).
+          restaurant, or at a nearby sports facility or activity venue.
         image: assets/img/timeline/calendar.jpg
         alt:
       - title: 
         year: "Of all the things you do, which is the most important?"
         desc: >
-          It's definitely the fundraising. No, hang on, it's seeing people's
-          smiles at the carnival or Santa sleigh visit. Or maybe it's making
-          new friendships that will last for years. You'd better ask a few of
-          us individually and hear what we each say!
+          Everyone has a different view. For some it's the fundraising. For
+          others it's seeing people's smiles at the carnival or Santa sleigh
+          visit. For many it's making new friendships that will last for years.
+          Come along and ask a few of us individually!
         image: assets/img/timeline/scale.jpg
         alt:
       - title:
         year: "Any funny handshakes?"
         desc: >
-          Not that we know about! No secret meetings or bizarre initiation
-          rituals either. We're just a group who want to get out and meet
-          people, do a bit for the community, and have fun along the way.
+          Definitely not. No secret meetings or bizarre initiation rituals
+          either. We're just a group who want to get out and meet people, do a
+          bit for the community, and have fun along the way.
         image: assets/img/timeline/secret.jpg
         alt: 
       - title:
