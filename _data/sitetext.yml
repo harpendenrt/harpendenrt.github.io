@@ -115,7 +115,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: " "
+    legal: "Privacy Policy"
     social:
       - url: https://twitter.com/harpendenrt
         icon: "fab fa-twitter"
