@@ -31,7 +31,7 @@ Visiting the site does not collect any data about you or use any cookies.
 If you use the contact form on the Site, we will store the information you
 provide for 30 days and use it to contact you by email or phone. If you
 subsequently continue to communicate with us, we will keep your information for
-longer, but you may as us to delete it at any time.
+longer, but you may ask us to delete it at any time.
 
 **CHANGES**
 
