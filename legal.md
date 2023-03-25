@@ -24,9 +24,14 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+Visiting the site does not collect any data about you or use any cookies.
 
 {% endif %}
+
+If you use the contact form on the Site, we will store the information you
+provide for 30 days and use it to contact you by email or phone. If you
+subsequently continue to communicate with us, we will keep your information for
+longer, but you may as us to delete it at any time.
 
 **CHANGES**
 
@@ -34,4 +39,4 @@ We may update this privacy policy from time to time for personal, operational, l
 
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+For more information about our privacy practices or if you have questions, please contact us <a href="/#contact">here</a>.
