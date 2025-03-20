@@ -29,9 +29,8 @@ en: &DEFAULT_EN
         icon: fas fa-glass-cheers #find more at https://fontawesome.com/icons
       - title: "Community events"
         desc: >
-          We organize two annual events for the community: the
-          [Harpenden&nbsp;Carnival](https://harpendencarnival.com) and the
-          [Santa&nbsp;sleigh](https://harpendensanta.uk) rounds.
+          We organise the annual [Santa&nbsp;sleigh](https://harpendensanta.uk) each Christmas
+          as well as having a regular presence at the Harpenden Summer Carnival
         icon: fas fa-sleigh
       - title: "Fundraising"
         desc: >
@@ -47,7 +46,7 @@ en: &DEFAULT_EN
       and around Harpenden who want to do more
     body: >
       We part of the national [Round&nbsp;Table](https://www.roundtable.co.uk)
-      organization, which has a sister organization,
+      organisation, which has a sister organisation,
       [Ladies&nbsp;Circle](https://ladiescircle.co.uk/), along with
       [41&nbsp;Club](https://www.41club.org/) and
       [Tangent](http://www.tangentclubs.org/) for those over 45. We hold regular
